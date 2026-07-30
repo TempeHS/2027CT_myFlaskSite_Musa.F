@@ -86,8 +86,8 @@ block content %}
 
 <!-- Rest of page content -->
 <div class="container mt-5">
-  <h1>Welcome!</h1>
-  <p class="lead">This site is built with Flask</p>
+  <h1>WHAT'S UP?</h1>
+  <p class="lead">This is an anime drawing website tailored for artists of all levels.</p>
 </div>
 
 <!-- Feature Cards Section -->
@@ -128,7 +128,8 @@ block content %}
           <div class="card-body">
             <h5 class="card-title">Easy to Use</h5>
             <p class="card-text">
-              Simple and intuitive interface designed with users in mind.
+              easy to use and navigate, making it simple for anyone to find what
+              they need.
             </p>
             <a href="{{ url_for('easy') }}" class="btn btn-primary"
               >Learn More</a
@@ -148,8 +149,8 @@ block content %}
           <div class="card-body">
             <h5 class="card-title">24/7 Support</h5>
             <p class="card-text">
-              Our dedicated team is here to help you anytime you need
-              assistance.
+              Contact us anytime for assistance, and our team will be happy to
+              help you.
             </p>
             <a href="{{ url_for('contact') }}" class="btn btn-primary"
               >Contact Us</a
@@ -157,7 +158,99 @@ block content %}
           </div>
         </div>
       </div>
+
+      <h2 class="text-center mb-4">Start learning Now😀</h2>
+
+            <!-- Card 4 -->
+      <div class="col-md-4 mb-4"> 
+
+        <div class="card h-100">
+          <img
+            src="{{ url_for('static', filename='images/sketch.jpg') }}"
+            class="card-img-top"
+            alt="Sketch Feature"
+          />
+          <div class="card-body">
+            <h5 class="card-title">Sketch Feature</h5>
+            <p class="card-text">
+              Explore our sketch lessons, allowing you to create and refine your
+              artwork with ease.
+            </p>
+            <a href="{{ url_for('sketch') }}" class="btn btn-primary"
+              >Learn More</a
+            >
+          </div>
+        </div>
+      </div>
+
+
+            <!-- Card 5 -->
+      <div class="col-md-4 mb-4"> 
+
+        <div class="card h-100">
+          <img
+            src="{{ url_for('static', filename='images/colour.jpg') }}"
+            class="card-img-top"
+            alt="Colour Feature"
+          />
+          <div class="card-body">
+            <h5 class="card-title">Colour Feature</h5>
+            <p class="card-text">
+              Explore our colour lessons, allowing you to add vibrant colors to your
+              artwork with ease.
+            </p>
+            <a href="{{ url_for('colour') }}" class="btn btn-primary"
+              >Learn More</a
+            >
+          </div>
+        </div>
+      </div>
+
+            <!-- Card 6 -->
+      <div class="col-md-4 mb-4"> 
+
+        <div class="card h-100">
+          <img
+            src="{{ url_for('static', filename='images/anatomy.jpg') }}"
+            class="card-img-top"
+            alt="Anatomy Feature"
+          />
+          <div class="card-body">
+            <h5 class="card-title">Anatomy Feature</h5>
+            <p class="card-text">
+              Explore our anatomy lessons, helping you understand the human body
+              structure for more accurate artwork.
+            </p>
+            <a href="{{ url_for('anatomy') }}" class="btn btn-primary"
+              >Learn More</a
+            >
+          </div>
+        </div>
+      </div>
+
+                  <!-- About me -->
+      <div class="col-md-4 mb-4"> 
+
+        <div class="card h-100">
+          <img
+            src="{{ url_for('static', filename='images/about me.jpg') }}"
+            class="card-img-top"
+            alt="About Me Feature"
+          />
+          <div class="card-body">
+            <h5 class="card-title">About Me</h5>
+            <p class="card-text">
+              Learn more about the creator of Art Docere and the inspiration behind the platform.
+            </p>
+            <a href="{{ url_for('about_me') }}" class="btn btn-primary"
+              >Learn More</a
+            >
+          </div>
+        </div>
+      </div>
+    </div>
     </div>
   </div>
 </section>
 {% endblock %}
+

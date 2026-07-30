@@ -23,5 +23,25 @@ def easy():
     return render_template("easy.html")
 
 
+@app.route("/sketch")
+def sketch():
+    return render_template("sketch.html")
+
+
+@app.route("/colour")
+def colour():
+    return render_template("colour.html")
+
+
+@app.route("/anatomy")
+def anatomy():
+    return render_template("anatomy.html")
+
+
+@app.route("/about me")
+def about_me():
+    return render_template("about me.html")
+
+
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000, debug=True)

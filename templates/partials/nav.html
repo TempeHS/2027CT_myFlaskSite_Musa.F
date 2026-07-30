@@ -29,6 +29,36 @@
             >Contact</a
           >
         </li>
+        <li class="nav-item">
+          <a
+            class="nav-link {% if request.endpoint == 'easy' %}active{% endif %}"
+            href="{{ url_for('easy') }}"
+            >Easy to Use</a
+          >
+        </li>
+        <li class="nav-item">
+          <a
+            class="nav-link {% if request.endpoint == 'fast_and_reliable' %}active{% endif %}"
+            href="{{ url_for('fast_and_reliable') }}"
+            >Fast and reliable</a
+          >
+        </li>
+
+        </li>
+        <li class="nav-item">
+          <a
+            class="nav-link {% if request.endpoint == 'anatomy' %}active{% endif %}"
+            href="{{ url_for('anatomy') }}"
+            >Anatomy Lessons</a
+          >
+        </li>
+        <li class="nav-item">
+          <a
+            class="nav-link {% if request.endpoint == 'about_me' %}active{% endif %}"
+            href="{{ url_for('about_me') }}"
+            >About Me</a
+          >
+        </li>
       </ul>
     </div>
   </div>
