@@ -114,3 +114,13 @@ section h2 {
   font-weight: 500;
   margin-bottom: 5px;
 }
+.about-section {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  margin: 40px;
+}
+.about-section img {
+  max-width: 400px;
+  border-radius: 8px;
+}

@@ -54,10 +54,31 @@
         </li>
         <li class="nav-item">
           <a
-            class="nav-link {% if request.endpoint == 'about_me' %}active{% endif %}"
-            href="{{ url_for('about_me') }}"
-            >About Me</a
+
+            class="nav-link {% if request.endpoint == 'sketch' %}active{% endif %}"
+            href="{{ url_for('sketch') }}"
+            >Sketch Lessons</a
+
+        </li>
+        <li class="nav-item">
+          <a
+            class="nav-link {% if request.endpoint == 'colour' %}active{% endif %}"
+            href="{{ url_for('colour') }}"
+            >Colour Lessons</a
           >
+        </li>
+        <li class="nav-item">
+          <a
+
+            >
+                      class="nav-link {% if request.endpoint == 'anatomy' %}active{% endif %}"
+            href="{{ url_for('colour') }}"
+            >Anatomy Lessons</a
+          >
+          <li><a href="{{ url_for('signup') }}">Sign Up</a></li>
+                    <a
+          >
+        </li>
         </li>
       </ul>
     </div>
