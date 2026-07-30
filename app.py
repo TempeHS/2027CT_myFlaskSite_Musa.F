@@ -13,5 +13,15 @@ def contact():
     return render_template("contact.html")
 
 
+@app.route("/fast-and-reliable")
+def fast_and_reliable():
+    return render_template("fast.html")
+
+
+@app.route("/easy")
+def easy():
+    return render_template("easy.html")
+
+
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000, debug=True)

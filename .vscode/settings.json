@@ -11,15 +11,15 @@
   },
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "[python]": {
-  "editor.defaultFormatter": "ms-python.black-formatter"
+    "editor.defaultFormatter": "ms-python.black-formatter"
   },
   "workbench.colorTheme": "Dark+",
   "workbench.iconTheme": "vscode-icons",
   "github.copilot.enable": {
     "python": false,
-    "html": false,
     "css": false,
-    "SQL": false
+    "SQL": false,
+    "html": true
   },
   "chat.agent.enabled": false
 }
