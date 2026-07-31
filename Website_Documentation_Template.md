@@ -1,12 +1,12 @@
 
 | Field                          | Detail |
 | ------------------------------ | ------ |
-| **Website Title**              |        |
-| **Student Name(s)**            |        |
-| **Class / Course**             |        |
-| **Repository**                 |        |
-| **Live Site / Codespaces URL** |        |
-| **Date**                       |        |
+| **Website Title**              | Art Docere |
+| **Student Name(s)**            | Musa Faizan |
+| **Class / Course**             | Year 9 Computer Tech |
+| **Repository**                 |(https://github.com/TempeHS/2027CT_myFlaskSite_Musa.F)|
+| **Live Site / Codespaces URL** | (https://ominous-goggles-q7r4jp9j5jp729jpp-5000.app.github.dev/) |
+| **Date**                       | 31/07/2026 |
 
 > Your website is the main piece of work. This README is short on purpose — it
 > points a reader to your **2-minute walkthrough** and gives an honest
@@ -16,9 +16,8 @@
 
 ## 1. Overview
 
-**Purpose:** <!-- One or two sentences: what the site is and why it exists (from your Statement of Intent). -->
-
-**Target audience:** <!-- One sentence: who the site is for (from your personas). -->
+**Purpose:** The purpose of my website is to teach users how to create anime/manga style artwork.
+My target audience is anyone who is interested in creating artworksin an anime/manga style.
 
 **Technology stack:** Python Flask · Jinja2 templates · Bootstrap (CDN) · custom CSS · pytest
 
@@ -28,19 +27,6 @@
 
 This is the most important part of your documentation — it shows your website running<img 
 
-
-<!--
-  Embed a ~2 minute walkthrough. Replace VIDEO_ID with your YouTube video ID:
-  [![Website Walkthrough](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
-
-  OR link a screen recording stored in the repository:
-  [Watch the Walkthrough](./docs/walkthrough.mp4)
--->
-
-| Field            | Detail |
-| ---------------- | ------ |
-| **Link / Embed** |        |
-| **Duration**     |        |
 
 **Your walkthrough should show:**
 
@@ -52,13 +38,11 @@ This is the most important part of your documentation — it shows your website 
 
 ## 3. Evaluation — Did You Deliver Your Statement of Intent?
 
-This is the most important written part of your documentation. Evaluate the
-website you **delivered** against the **Statement of Intent** you wrote during
-planning. Be honest and use evidence — point to a page, a feature or a test.
+Art Docere website comes across as clean and visually balanced, with a simple layout that makes your story easy to follow and your artwork the focal point. The right‑aligned image beside your introductory text gives the homepage a polished, professional feel, and the navigation is straightforward enough for visitors to move through your pages without friction. Where it could grow is in consistency: a defined color palette, a modern font, and cleaner CSS organization would elevate the design and make the site feel more cohesive. Overall, it’s a solid foundation with clear personality and plenty of room to evolve into something even more visually striking. My subject is easy, fast an reliable. Any user can learn how to create art in an anime/manga style using this website.
 
 ### 3.1 Your Statement of Intent
 
-<!-- Paste the Statement of Intent you wrote during planning so the reader can judge your site against it. -->
+My intent is to create a website for all types of users so they can learn how to draw in an anime/manga style
 
 ### 3.2 What You Delivered
 
@@ -89,33 +73,23 @@ planning. Be honest and use evidence — point to a page, a feature or a test.
 
 ### 3.3 Evaluation Against Your Intent (2–3 paragraphs)
 
-> Take each aim in your Statement of Intent and evaluate **how well the
-> delivered site meets it**. Where did you meet your intent? Where did you fall
-> short, and why? Support every judgement with evidence from your site.
-
-<!-- Write 2–3 paragraphs. -->
+My website met my intent. It can teach users to draw in an anime/manga style with vieos and text. It uses a consistent teacher for the videos, that are clear and reliable. I think i fell short in the features aspects. I dont think I included enough videos or text. I also think i didnt add enough unique features like a search bar or drop down menu.
 
 ### 3.4 Overall Effectiveness (1–2 paragraphs)
+Overall, your imagined Art Docere website is effective in communicating your purpose, personality, and creative identity. The homepage immediately establishes who you are and what the project stands for, using a clean layout and a strong visual anchor that draws visitors in. Your story adds authenticity and emotional depth, helping users understand the passion behind the platform. Navigation is simple and intuitive, allowing visitors to explore without confusion, and the inclusion of a gallery and sign‑up form gives the site a sense of structure and progression.
 
-> Step back from the detail. Overall, **how effective** is the website at
-> achieving its purpose for its target audience? Weigh what works against what
-> falls short, and state what you would improve to better meet your intent.
-
-<!-- Write 1–2 paragraphs. -->
+Where the site could improve is in consistency and refinement. A unified color palette, modern typography, and cleaner CSS organization would elevate the visual experience and make the site feel more polished. Adding responsive design touches—such as better mobile spacing or a collapsible menu—would strengthen usability across devices. Even with these areas for growth, the site succeeds in presenting a clear mission and a welcoming creative space, making it an effective foundation for your project.
 
 ---
 
 ## 4. Acknowledgements
 
-> List anything you did not make yourself — tutorials, images, fonts, icons and
-> libraries. Using content without acknowledgement may constitute academic
-> misconduct.
-
+I used  videos from a youtuber named draw like a sir, other than  that all other text and images where original
 | What you used | Source / Creator | Licence | What you used it for   |
 | ------------- | ---------------- | ------- | ---------------------- |
 | Bootstrap     | Bootstrap team   | MIT     | Layout and components  |
 | Flask         | Pallets Projects | BSD     | Web server and routing |
-|               |                  |         |                        |
+| Youtube videos| Draw like a sir  |         | Tutorials for art. |
 |               |                  |         |                        |
 
 ---
