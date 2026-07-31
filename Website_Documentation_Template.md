@@ -26,8 +26,7 @@
 
 ## 2. Walkthrough Video (2 minutes)
 
-This is the most important part of your documentation — it shows your website running<img width="1000" height="541" alt="outputH" src="https://github.com/user-attachments/assets/e0e1d75c-cb4d-4b84-bc03-23e5bf8f1116" />
-.
+This is the most important part of your documentation — it shows your website running<img 
 
 
 <!--
@@ -63,7 +62,7 @@ planning. Be honest and use evidence — point to a page, a feature or a test.
 
 ### 3.2 What You Delivered
 
-| Page    | Route      | What it delivers |
+| Page    | Route      | Video preview |
 | ------- | ---------- | ---------------- |
 | Home    | `/`        | <img width="250" height="135" alt="outputA" src="https://github.com/user-attachments/assets/3c79532c-30db-4eed-aeb7-9f1b843b14a1" /> |
 | Fast and reliable |   |<img width="250" height="135" alt="outputB" src="https://github.com/user-attachments/assets/3d7a9e3c-a2d0-4f6e-85ca-b27204984b91" />|
@@ -72,15 +71,22 @@ planning. Be honest and use evidence — point to a page, a feature or a test.
 |Anatomy| |<img width="250" height="135" alt="outputE" src="https://github.com/user-attachments/assets/5fe567f7-6df5-47d9-8cf2-ef8f979bf2b2" />|
 | Colour | |<img width="250" height="135" alt="outputF" src="https://github.com/user-attachments/assets/2b0038c5-ab1f-4023-abf3-1a2c667909ce" />|
 | About me | |<img width="250" height="135" alt="outputG" src="https://github.com/user-attachments/assets/0e28ac62-6326-4566-a20c-56229c8a1bd9" />|
-| Sign up | | <img width="250" height="135" alt="outputH" src="https://github.com/user-attachments/assets/9caa018d-d91f-4ff6-91fe-eb6dccbce2bc" />
+| Sign up | | <img width="250" height="135" alt="outputH" src="https://github.com/user-attachments/assets/9caa018d-d91f-4ff6-91fe-eb6dccbce2bc" />|
+
+| Page    | Route      | What it delivers |
+| ------- | ---------- | ---------------- |
+| Home    | Home\ Art Docere   | It ctains all the main functions as buttons, cards and navigation bar|
+| Fast and reliable |Learn more/ Navbar|Shows users how the website is fast and reliable|
+| Easy to use | Learn more/ Navbar | Shows users how the website is easy to use|
+| Contact | Learn more/ Navbar | A page to contact my websites teams for any inquiries or issues |
+| Sketch | Learn more/ Navbar | contains text and youtube videos to teach users how to sketch|
+|Anatomy| Learn more/ Navbar | contains text and youtube videos to teach users how to draw anatomy|
+| Colour | Learn more/ Navbar |contains text and youtube videos to teach users how to scolour their sketches|
+| About me  |Learn more/ Navbar  |Provides users with information about myself (the creator)|
+| Sign up | Learn more/ Navbar | A page for signing up|
 
 
 
-
-
-
-          |
-|  |  |  |
 ### 3.3 Evaluation Against Your Intent (2–3 paragraphs)
 
 > Take each aim in your Statement of Intent and evaluate **how well the
