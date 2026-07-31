@@ -1,4 +1,3 @@
-# Website Name
 
 | Field                          | Detail |
 | ------------------------------ | ------ |
@@ -27,7 +26,9 @@
 
 ## 2. Walkthrough Video (2 minutes)
 
-This is the most important part of your documentation — it shows your website running.
+This is the most important part of your documentation — it shows your website running<img width="1000" height="541" alt="outputH" src="https://github.com/user-attachments/assets/e0e1d75c-cb4d-4b84-bc03-23e5bf8f1116" />
+.
+
 
 <!--
   Embed a ~2 minute walkthrough. Replace VIDEO_ID with your YouTube video ID:
@@ -64,9 +65,22 @@ planning. Be honest and use evidence — point to a page, a feature or a test.
 
 | Page    | Route      | What it delivers |
 | ------- | ---------- | ---------------- |
-| Home    | `/`        |                  |
-| Contact | `/contact` |                  |
+| Home    | `/`        | <img width="250" height="135" alt="outputA" src="https://github.com/user-attachments/assets/3c79532c-30db-4eed-aeb7-9f1b843b14a1" /> |
+| Fast and reliable |   |<img width="250" height="135" alt="outputB" src="https://github.com/user-attachments/assets/3d7a9e3c-a2d0-4f6e-85ca-b27204984b91" />|
+| Contact | `/contact` |<img width="250" height="135" alt="outputC" src="https://github.com/user-attachments/assets/6f825561-0e20-4e32-90bf-00d850519220" /> |
+| Sketch | |<img width="250" height="135" alt="outputD" src="https://github.com/user-attachments/assets/ed309fe9-79da-4a76-a9a5-ce6b6981d802" />|
+|Anatomy| |<img width="250" height="135" alt="outputE" src="https://github.com/user-attachments/assets/5fe567f7-6df5-47d9-8cf2-ef8f979bf2b2" />|
+| Colour | |<img width="250" height="135" alt="outputF" src="https://github.com/user-attachments/assets/2b0038c5-ab1f-4023-abf3-1a2c667909ce" />|
+| About me | |<img width="250" height="135" alt="outputG" src="https://github.com/user-attachments/assets/0e28ac62-6326-4566-a20c-56229c8a1bd9" />|
+| Sign up | | <img width="250" height="135" alt="outputH" src="https://github.com/user-attachments/assets/9caa018d-d91f-4ff6-91fe-eb6dccbce2bc" />
 
+
+
+
+
+
+          |
+|  |  |  |
 ### 3.3 Evaluation Against Your Intent (2–3 paragraphs)
 
 > Take each aim in your Statement of Intent and evaluate **how well the
